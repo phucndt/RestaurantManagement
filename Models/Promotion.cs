@@ -6,7 +6,7 @@ namespace RestaurantManagement.Models
     public class Promotion
     {
         [Key]
-        public int PromotionId { get; set; }
+        public int Id { get; set; }
 
         [Required]
         public string Title { get; set; }

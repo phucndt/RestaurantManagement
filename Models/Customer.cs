@@ -5,7 +5,7 @@ namespace RestaurantManagement.Models
     public class Customer
     {
         [Key]
-        public int CustomerId { get; set; }
+        public int Id { get; set; }
 
         [Required]
         public string FirstName { get; set; }

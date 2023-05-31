@@ -5,7 +5,7 @@ namespace RestaurantManagement.Models
     public class Inventory
     {
         [Key]
-        public int InventoryId { get; set; }
+        public int Id { get; set; }
 
         [Required]
         public string IngredientName { get; set; }

@@ -5,7 +5,7 @@ namespace RestaurantManagement.Models
     public class Menu
     {
         [Key]
-        public int MenuItemId { get; set; }
+        public int Id { get; set; }
 
         public int CategoryId { get; set; }
         public Category Category { get; set; }
