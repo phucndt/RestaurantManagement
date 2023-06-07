@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace RestaurantManagement.Migrations
 {
     [DbContext(typeof(RestaurantManagementContext))]
-    [Migration("20230526095140_InitialCreate")]
+    [Migration("20230607103459_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -26,28 +26,28 @@ namespace RestaurantManagement.Migrations
 
             modelBuilder.Entity("RestaurantManagement.Models.Category", b =>
                 {
-                    b.Property<int>("CategoryId")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CategoryId"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("CategoryName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.HasKey("CategoryId");
+                    b.HasKey("Id");
 
                     b.ToTable("Category");
                 });
 
             modelBuilder.Entity("RestaurantManagement.Models.Customer", b =>
                 {
-                    b.Property<int>("CustomerId")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CustomerId"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("ContactNumber")
                         .IsRequired()
@@ -65,18 +65,18 @@ namespace RestaurantManagement.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.HasKey("CustomerId");
+                    b.HasKey("Id");
 
                     b.ToTable("Customer");
                 });
 
             modelBuilder.Entity("RestaurantManagement.Models.Feedback", b =>
                 {
-                    b.Property<int>("FeedbackId")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("FeedbackId"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<DateTime>("FeedbackDate")
                         .HasColumnType("datetime2");
@@ -88,7 +88,7 @@ namespace RestaurantManagement.Migrations
                     b.Property<int>("UserId")
                         .HasColumnType("int");
 
-                    b.HasKey("FeedbackId");
+                    b.HasKey("Id");
 
                     b.HasIndex("UserId");
 
@@ -97,11 +97,11 @@ namespace RestaurantManagement.Migrations
 
             modelBuilder.Entity("RestaurantManagement.Models.Inventory", b =>
                 {
-                    b.Property<int>("InventoryId")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("InventoryId"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("IngredientName")
                         .IsRequired()
@@ -110,18 +110,18 @@ namespace RestaurantManagement.Migrations
                     b.Property<int>("Quantity")
                         .HasColumnType("int");
 
-                    b.HasKey("InventoryId");
+                    b.HasKey("Id");
 
                     b.ToTable("Inventory");
                 });
 
             modelBuilder.Entity("RestaurantManagement.Models.Menu", b =>
                 {
-                    b.Property<int>("MenuItemId")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("MenuItemId"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<int>("CategoryId")
                         .HasColumnType("int");
@@ -144,7 +144,7 @@ namespace RestaurantManagement.Migrations
                     b.Property<decimal>("Price")
                         .HasColumnType("decimal(18,2)");
 
-                    b.HasKey("MenuItemId");
+                    b.HasKey("Id");
 
                     b.HasIndex("CategoryId");
 
@@ -153,11 +153,11 @@ namespace RestaurantManagement.Migrations
 
             modelBuilder.Entity("RestaurantManagement.Models.Order", b =>
                 {
-                    b.Property<int>("OrderId")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("OrderId"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<DateTime>("OrderDate")
                         .HasColumnType("datetime2");
@@ -172,7 +172,7 @@ namespace RestaurantManagement.Migrations
                     b.Property<int>("UserId")
                         .HasColumnType("int");
 
-                    b.HasKey("OrderId");
+                    b.HasKey("Id");
 
                     b.HasIndex("UserId");
 
@@ -181,11 +181,11 @@ namespace RestaurantManagement.Migrations
 
             modelBuilder.Entity("RestaurantManagement.Models.OrderItem", b =>
                 {
-                    b.Property<int>("OrderItemId")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("OrderItemId"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<int>("MenuItemId")
                         .HasColumnType("int");
@@ -196,7 +196,7 @@ namespace RestaurantManagement.Migrations
                     b.Property<int>("Quantity")
                         .HasColumnType("int");
 
-                    b.HasKey("OrderItemId");
+                    b.HasKey("Id");
 
                     b.HasIndex("MenuItemId");
 
@@ -207,11 +207,11 @@ namespace RestaurantManagement.Migrations
 
             modelBuilder.Entity("RestaurantManagement.Models.Promotion", b =>
                 {
-                    b.Property<int>("PromotionId")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("PromotionId"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Description")
                         .IsRequired()
@@ -230,18 +230,18 @@ namespace RestaurantManagement.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.HasKey("PromotionId");
+                    b.HasKey("Id");
 
                     b.ToTable("Promotion");
                 });
 
             modelBuilder.Entity("RestaurantManagement.Models.Review", b =>
                 {
-                    b.Property<int>("ReviewId")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ReviewId"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Comment")
                         .IsRequired()
@@ -256,7 +256,7 @@ namespace RestaurantManagement.Migrations
                     b.Property<int>("UserId")
                         .HasColumnType("int");
 
-                    b.HasKey("ReviewId");
+                    b.HasKey("Id");
 
                     b.HasIndex("MenuItemId");
 
@@ -267,45 +267,45 @@ namespace RestaurantManagement.Migrations
 
             modelBuilder.Entity("RestaurantManagement.Models.Role", b =>
                 {
-                    b.Property<int>("RoleId")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("RoleId"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("RoleName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.HasKey("RoleId");
+                    b.HasKey("Id");
 
                     b.ToTable("Role");
                 });
 
             modelBuilder.Entity("RestaurantManagement.Models.Supplier", b =>
                 {
-                    b.Property<int>("SupplierId")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("SupplierId"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("SupplierName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.HasKey("SupplierId");
+                    b.HasKey("Id");
 
                     b.ToTable("Supplier");
                 });
 
             modelBuilder.Entity("RestaurantManagement.Models.SupplierOrder", b =>
                 {
-                    b.Property<int>("SupplierOrderId")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("SupplierOrderId"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("IngredientName")
                         .IsRequired()
@@ -320,7 +320,7 @@ namespace RestaurantManagement.Migrations
                     b.Property<int>("SupplierId")
                         .HasColumnType("int");
 
-                    b.HasKey("SupplierOrderId");
+                    b.HasKey("Id");
 
                     b.HasIndex("SupplierId");
 
@@ -329,11 +329,11 @@ namespace RestaurantManagement.Migrations
 
             modelBuilder.Entity("RestaurantManagement.Models.TableReservation", b =>
                 {
-                    b.Property<int>("ReservationId")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ReservationId"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<DateTime>("ReservationDateTime")
                         .HasColumnType("datetime2");
@@ -344,7 +344,7 @@ namespace RestaurantManagement.Migrations
                     b.Property<int>("UserId")
                         .HasColumnType("int");
 
-                    b.HasKey("ReservationId");
+                    b.HasKey("Id");
 
                     b.HasIndex("UserId");
 
@@ -353,11 +353,11 @@ namespace RestaurantManagement.Migrations
 
             modelBuilder.Entity("RestaurantManagement.Models.User", b =>
                 {
-                    b.Property<int>("UserId")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("UserId"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Password")
                         .IsRequired()
@@ -370,7 +370,7 @@ namespace RestaurantManagement.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.HasKey("UserId");
+                    b.HasKey("Id");
 
                     b.HasIndex("RoleId");
 

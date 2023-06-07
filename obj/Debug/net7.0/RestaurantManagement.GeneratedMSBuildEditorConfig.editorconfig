@@ -9,317 +9,317 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RestaurantManagement
 build_property.RootNamespace = RestaurantManagement
-build_property.ProjectDir = c:\Users\Inspiron\OneDrive\Desktop\RestaurantManagement\
+build_property.ProjectDir = C:\Users\Inspiron\OneDrive\Desktop\RestaurantManagement\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\Inspiron\OneDrive\Desktop\RestaurantManagement
+build_property.MSBuildProjectDirectory = C:\Users\Inspiron\OneDrive\Desktop\RestaurantManagement
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Category/Create.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Category/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Category/Delete.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Category/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Category/Details.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Category/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Category/Edit.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Category/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Category/Index.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Customer/Create.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Customer/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Customer/Delete.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Customer/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Customer/Details.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Customer/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Customer/Edit.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Customer/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Customer/Index.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Customer/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Feedback/Create.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Feedback/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVlZGJhY2tcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Feedback/Delete.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Feedback/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVlZGJhY2tcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Feedback/Details.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Feedback/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVlZGJhY2tcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Feedback/Edit.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Feedback/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVlZGJhY2tcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Feedback/Index.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Feedback/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVlZGJhY2tcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Home/Index.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Home/Privacy.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Inventory/Create.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Inventory/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50b3J5XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Inventory/Delete.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Inventory/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50b3J5XERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Inventory/Details.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Inventory/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50b3J5XERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Inventory/Edit.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Inventory/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50b3J5XEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Inventory/Index.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Inventory/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50b3J5XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Menu/Create.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Menu/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Menu/Delete.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Menu/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Menu/Details.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Menu/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Menu/Edit.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Menu/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Menu/Index.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Menu/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/OrderItem/Create.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/OrderItem/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJJdGVtXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/OrderItem/Delete.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/OrderItem/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJJdGVtXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/OrderItem/Details.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/OrderItem/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJJdGVtXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/OrderItem/Edit.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/OrderItem/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJJdGVtXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/OrderItem/Index.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/OrderItem/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJJdGVtXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Order/Create.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Order/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Order/Delete.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Order/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Order/Details.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Order/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Order/Edit.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Order/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Order/Index.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Order/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Promotion/Create.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Promotion/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW90aW9uXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Promotion/Delete.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Promotion/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW90aW9uXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Promotion/Details.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Promotion/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW90aW9uXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Promotion/Edit.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Promotion/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW90aW9uXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Promotion/Index.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Promotion/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbW90aW9uXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Review/Create.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Review/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Review/Delete.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Review/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3XERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Review/Details.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Review/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3XERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Review/Edit.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Review/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3XEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Review/Index.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Review/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Role/Create.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Role/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Role/Delete.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Role/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Role/Details.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Role/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Role/Edit.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Role/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Role/Index.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Role/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Shared/Error.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/SupplierOrder/Create.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/SupplierOrder/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJPcmRlclxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/SupplierOrder/Delete.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/SupplierOrder/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJPcmRlclxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/SupplierOrder/Details.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/SupplierOrder/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJPcmRlclxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/SupplierOrder/Edit.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/SupplierOrder/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJPcmRlclxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/SupplierOrder/Index.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/SupplierOrder/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJPcmRlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Supplier/Create.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Supplier/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Supplier/Delete.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Supplier/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Supplier/Details.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Supplier/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Supplier/Edit.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Supplier/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Supplier/Index.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Supplier/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/TableReservation/Create.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/TableReservation/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVSZXNlcnZhdGlvblxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/TableReservation/Delete.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/TableReservation/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVSZXNlcnZhdGlvblxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/TableReservation/Details.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/TableReservation/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVSZXNlcnZhdGlvblxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/TableReservation/Edit.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/TableReservation/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVSZXNlcnZhdGlvblxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/TableReservation/Index.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/TableReservation/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVSZXNlcnZhdGlvblxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/User/Create.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/User/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/User/Delete.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/User/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/User/Details.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/User/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/User/Edit.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/User/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/User/Index.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/User/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/_ViewImports.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/_ViewStart.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Shared/_Layout.cshtml]
+[C:/Users/Inspiron/OneDrive/Desktop/RestaurantManagement/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-qeeoem54h0
